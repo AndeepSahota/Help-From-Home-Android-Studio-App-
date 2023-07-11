@@ -1,4 +1,3 @@
-# Help-From-Home-Android-Studio-App-
 # Help From Home Android Studio App
 
 The Help From Home Android Studio App is designed to assist individuals facing financial difficulties during the cost of living crisis in the UK. The application provides access to discounted food bags, helping people save money for essential bills and expenses.
